@@ -27,7 +27,9 @@ The IBM Streaming Analytics service will consume these events in real-time and p
 ### Instruction to Run
 -------------------
 
-This recipe showcases how to run the project step by step to perform the realtime Streaming Analytics on the events published on IBM Watson IoT Platform.
+The samples are built using the [InfoSphere Streams Studio integrated development environment (IDE)](https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.0/com.ibm.streams.qse.doc/doc/installtrial-container.html?lang=en) and  toolkits that extend the functionality.
+
+Also, this recipe showcases how to run the project step by step to perform the realtime Streaming Analytics on the events published on IBM Watson IoT Platform.
 
 ----
 
