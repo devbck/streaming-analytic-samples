@@ -7,7 +7,7 @@ In this project, we show how to use the Streaming Analytics service to analyze t
 
 The following diagram shows the components involved in the integration.
 
-![Alt text](./architecture.png?raw=true "High Level Architecture")
+![Alt text](./architecture.PNG?raw=true "High Level Architecture")
 
 As shown, the IoT devices “Washing Machines” will publish various sensor events to IBM Watson IoT Platform. In absence of an actual device, we have provided a simulator which keep pumping in the events. Following are the different events that the Washer will publish to Watson IoT Platform.
 
